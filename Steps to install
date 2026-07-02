@@ -1,0 +1,9 @@
+How to install the Loop skill in Claude
+
+Download the skill file I sent you
+Open Claude.ai and go to Settings
+Under Profile, find the Skills section
+Click Add Skill and upload the file
+Once added, start any new conversation and type /loop to activate it
+
+That's it. No setup, no config. Just call the mode and go.
